@@ -9,7 +9,7 @@
 Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, Machine Learning e Deep Learning.
 
 ## Projetos:
-Lista de projetos em Jupyter Notebook:
+Lista de projetos:
 
 * ** Em Construção...
 
@@ -26,5 +26,7 @@ Sou Formado em Administração de Empresas, Com Experiencia Profissional em Plan
 ### Mais sobre min:
 
 * **Licenças/Certificados/Conquistas --> Linkedin**:https://bit.ly/3uaueCG
+
+
 
 
