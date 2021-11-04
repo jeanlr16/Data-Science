@@ -11,7 +11,7 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, M
 ## Projetos:
 Lista de projetos:
 
-* ** Em Construção...
+* ** Analisando dados do Airbnb da cidade de Hong Kong: https://bityli.com/wroRVe
 
 ---
 
