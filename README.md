@@ -15,13 +15,6 @@ Lista de projetos:
 
 ---
 
-### Sobre mim:
-
-Sou Formado em Administração de Empresas, Com Experiencia Profissional em Planejamento e Controle de Produção e MIS (Analyst Management Information).
-
-* Graduação em Administração de Empresas pela Unipac-Uberlândia.
-
----
 
 ### Mais sobre min:
 
